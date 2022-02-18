@@ -1,0 +1,24 @@
+{
+  "name": "language-generator",
+  "version": "1.0.0",
+  "description": "H5P Editor PHP Library ==========",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/h5p/h5p-editor-php-library.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/h5p/h5p-editor-php-library/issues"
+  },
+  "homepage": "https://github.com/h5p/h5p-editor-php-library#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "prettier": "^2.5.1"
+  },
+  "type": "module"
+}
